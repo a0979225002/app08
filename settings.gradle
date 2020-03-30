@@ -1,0 +1,2 @@
+rootProject.name='讓全部Fragment放在同一個Activity裡面'
+include ':app'
